@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Variant SubjectCode="25" VariantCode="953" ExamDate="2025.12.13" Duration="235" OVZDuration="325">
+  <Instruction PDFPageNumber="1" />
+  <Question Number="1" Label="1" PDFPageNumber="2">
+    <AnswerProperty AnswerType="Field" Length="3" ValidationAnswerType="1" />
+  </Question>
+  <Question Number="2" Label="2" PDFPageNumber="3">
+    <AnswerProperty AnswerType="Field" Length="4" ValidationAnswerType="4" />
+  </Question>
+  <Question Number="3" Label="3" PDFPageNumber="4">
+    <AnswerProperty AnswerType="Field" Length="10" ValidationAnswerType="1" />
+    <Attachment Number="1" File="953_3.ods" FileName="3.ods" Md5="b844e72cc7ef79e9549da61db20ebc11" />
+  </Question>
+  <Question Number="4" Label="4" PDFPageNumber="5">
+    <AnswerProperty AnswerType="Field" Length="10" ValidationAnswerType="1" />
+  </Question>
+  <Question Number="5" Label="5" PDFPageNumber="6">
+    <AnswerProperty AnswerType="Field" Length="10" ValidationAnswerType="1" />
+  </Question>
+  <Question Number="6" Label="6" PDFPageNumber="7">
+    <AnswerProperty AnswerType="Field" Length="10" ValidationAnswerType="1" />
+  </Question>
+  <Question Number="7" Label="7" PDFPageNumber="8">
+    <AnswerProperty AnswerType="Field" Length="10" ValidationAnswerType="1" />
+  </Question>
+  <Question Number="8" Label="8" PDFPageNumber="9">
+    <AnswerProperty AnswerType="Field" Length="10" ValidationAnswerType="1" />
+  </Question>
+  <Question Number="9" Label="9" PDFPageNumber="10">
+    <AnswerProperty AnswerType="Field" Length="10" ValidationAnswerType="1" />
+    <Attachment Number="1" File="953_9.ods" FileName="9.ods" Md5="a344d020480754d6adc5655910e1783d" />
+  </Question>
+  <Question Number="10" Label="10" PDFPageNumber="11">
+    <AnswerProperty AnswerType="Field" Length="10" ValidationAnswerType="1" />
+    <Attachment Number="1" File="953_10.odt" FileName="10.odt" Md5="0f6292c483abdeba733d87574cac39da" />
+  </Question>
+  <Question Number="11" Label="11" PDFPageNumber="12">
+    <AnswerProperty AnswerType="Field" Length="10" ValidationAnswerType="1" />
+  </Question>
+  <Question Number="12" Label="12" PDFPageNumber="13">
+    <AnswerProperty AnswerType="Field" Length="10" ValidationAnswerType="1" />
+  </Question>
+  <Question Number="13" Label="13" PDFPageNumber="14">
+    <AnswerProperty AnswerType="Field" Length="12" ValidationAnswerType="1" />
+  </Question>
+  <Question Number="14" Label="14" PDFPageNumber="15">
+    <AnswerProperty AnswerType="Field" Length="12" ValidationAnswerType="1" />
+  </Question>
+  <Question Number="15" Label="15" PDFPageNumber="16">
+    <AnswerProperty AnswerType="Field" Length="10" ValidationAnswerType="1" />
+  </Question>
+  <Question Number="16" Label="16" PDFPageNumber="17">
+    <AnswerProperty AnswerType="Field" Length="12" ValidationAnswerType="1" />
+  </Question>
+  <Question Number="17" Label="17" PDFPageNumber="18">
+    <AnswerProperty AnswerType="Table" TableAnswWidth="2" TableAnswHeight="1" Length="10" ValidationAnswerType="1" />
+    <Attachment Number="1" File="953_17.txt" FileName="17.txt" Md5="35d354ac07dfc35c7466b5d4e54df175" />
+  </Question>
+  <Question Number="18" Label="18" PDFPageNumber="19">
+    <AnswerProperty AnswerType="Table" TableAnswWidth="2" TableAnswHeight="1" Length="10" ValidationAnswerType="1" />
+    <Attachment Number="1" File="953_18.ods" FileName="18.ods" Md5="2dd571467183d9366768f3c18d940e77" />
+  </Question>
+  <Question Number="19" Label="19" PDFPageNumber="20">
+    <AnswerProperty AnswerType="Field" Length="10" ValidationAnswerType="1" />
+  </Question>
+  <Question Number="20" Label="20" PDFPageNumber="21">
+    <AnswerProperty AnswerType="Table" TableAnswWidth="2" TableAnswHeight="1" Length="10" ValidationAnswerType="1" />
+  </Question>
+  <Question Number="21" Label="21" PDFPageNumber="22">
+    <AnswerProperty AnswerType="Field" Length="10" ValidationAnswerType="1" />
+  </Question>
+  <Question Number="22" Label="22" PDFPageNumber="23">
+    <AnswerProperty AnswerType="Field" Length="10" ValidationAnswerType="1" />
+    <Attachment Number="1" File="953_22.ods" FileName="22.ods" Md5="989cc91987b4b68e2d6ebf8b568a9695" />
+  </Question>
+  <Question Number="23" Label="23" PDFPageNumber="24">
+    <AnswerProperty AnswerType="Field" Length="10" ValidationAnswerType="1" />
+  </Question>
+  <Question Number="24" Label="24" PDFPageNumber="25">
+    <AnswerProperty AnswerType="Field" Length="10" ValidationAnswerType="1" />
+    <Attachment Number="1" File="953_24.txt" FileName="24.txt" Md5="224750044e58dd446ff0a3ad82837755" />
+  </Question>
+  <Question Number="25" Label="25" PDFPageNumber="26">
+    <AnswerProperty AnswerType="Table" TableAnswWidth="2" TableAnswHeight="12" Length="13" ValidationAnswerType="1" />
+  </Question>
+  <Question Number="26" Label="26" PDFPageNumber="27">
+    <AnswerProperty AnswerType="Table" TableAnswWidth="2" TableAnswHeight="1" Length="13" ValidationAnswerType="1" />
+    <Attachment Number="1" File="953_26.txt" FileName="26.txt" Md5="28950002c6ce13ab2f45d3123aff31e5" />
+  </Question>
+  <Question Number="27" Label="27" PDFPageNumber="28">
+    <AnswerProperty AnswerType="Table" TableAnswWidth="2" TableAnswHeight="2" Length="15" ValidationAnswerType="1" />
+    <Attachment Number="1" File="953_27_A.txt" FileName="27_A.txt" Md5="ef5a39492f2cd82627bb21f6c38b7141" />
+    <Attachment Number="2" File="953_27_B.txt" FileName="27_B.txt" Md5="961587690992e4dcdbeafc7b21257300" />
+  </Question>
+</Variant>

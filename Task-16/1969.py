@@ -7,5 +7,5 @@ def f(n):
         return 2 * f(n-2)
 
 print(f(26))
-
+#4122
         

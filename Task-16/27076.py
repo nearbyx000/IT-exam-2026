@@ -33,3 +33,4 @@ for i in range(12000,0,-1):
 for i in range(2027):
     F(i)
 print(F(2026))
+#998154

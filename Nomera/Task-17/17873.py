@@ -1,4 +1,4 @@
-a = [int(x) for x in open('17_17873.txt')]
+a = [int(x) for x in open('files/17_17873.txt')]
 minimal = min(a)
 ans = []
 for i in range(len(a) - 1):

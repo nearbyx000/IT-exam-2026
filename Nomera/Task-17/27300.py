@@ -1,4 +1,4 @@
-a = [int(x) for x in open('17_27300.txt')]
+a = [int(x) for x in open('files/17_27300.txt')]
 maximum = 0
 count = 0
 min_sum = float('inf') 

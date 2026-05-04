@@ -1,4 +1,4 @@
-a = [int(x) for x in open('17.16_14653.txt').read().split()]
+a = [int(x) for x in open('files/17.16_14653.txt').read().split()]
 a_usl = [x for x in a if x%17==0 and x>0]
 a_usl.sort()
 mn1 = a_usl[0]

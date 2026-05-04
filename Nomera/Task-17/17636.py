@@ -1,4 +1,4 @@
-a = [int(x) for x in open('17_17636.txt')]
+a = [int(x) for x in open('files/17_17636.txt')]
 mx = max(x for x in a if abs(x)%10 ==3 and 100 <= abs(x) <= 999)
 r = []
 for i in range(len(a) -2):

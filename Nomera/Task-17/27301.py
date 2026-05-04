@@ -1,4 +1,4 @@
-a = [int(x) for x in open('17_27301.txt')]
+a = [int(x) for x in open('files/17_27301.txt')]
 maximum = -10**10
 for x in a:
     if str(abs(x))[:2] == '45':
